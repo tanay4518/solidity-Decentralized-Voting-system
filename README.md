@@ -98,3 +98,4 @@ By leveraging blockchain technology, we envision a future where every vote is co
 ---
 
 *Built with ❤️ for a more democratic future*
+[decentralized.pdf](https://github.com/user-attachments/files/20477266/decentralized.pdf)
